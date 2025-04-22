@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+tqdm
+python-whois
+pyOpenSSL
+shodan
